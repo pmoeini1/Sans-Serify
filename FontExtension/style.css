@@ -1,0 +1,30 @@
+.button {
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+    color: black;
+    background-color: lightblue;
+}
+
+.container {
+    display: grid;
+    grid-row-gap: 10px;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 50%;
+    padding: 10px;}
+
+#title {
+    font-size: 12px;
+    width: 190px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+
